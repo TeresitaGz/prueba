@@ -1,0 +1,22 @@
+h1 {
+    text-align: center;
+}
+form {
+    text-align: center;
+    font-size: 2vw;
+}
+
+input {
+    width: 50%;
+    height: 20px;
+    font-size: 2vw;
+}
+img {
+    width: 400px;
+}
+
+button {
+    background-color: skyblue;
+    width: 15%;
+    height: 30px;
+}
